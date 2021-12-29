@@ -5,7 +5,7 @@ A Simple programming Language made with C#
 Melon Language Supports both compiling AND interpreting
 
 # Syntax
-> = move the cursor right by 1
+```> = move the cursor right by 1
 < = move the cursor left by 1
 + = add the Address that is selected in cursor
 - = subtract the Address that is selected in cursor
@@ -19,4 +19,4 @@ $ = resets all address
 \ = jumps to a certain position
 / = copy the address to a specific place
 ^ = check if the address is <your value> or not
-! = quit
+! = quit```
