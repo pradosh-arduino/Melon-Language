@@ -70,5 +70,5 @@ I recommend this settings: ![setting.json](https://github.com/pradosh-arduino/Me
   | OS name | Version | Arch |
   |---------|---------| -----|
   | Windows | > 10 | 64 Bit |
-  | Linux (with wine loaded | any | 64 Bit |
+  | Linux (with wine loaded) | any | 64 Bit |
   
