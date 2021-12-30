@@ -49,7 +49,7 @@ I recommend this settings: ![setting.json](https://github.com/pradosh-arduino/Me
   |----------|--------|
   |CPU | any |
   | GPU | any |
-  | RAM | >512 MB |
+  | RAM | >256 MB |
   | Storage | any |
 
   linux requirements:
@@ -62,7 +62,7 @@ I recommend this settings: ![setting.json](https://github.com/pradosh-arduino/Me
   |----------|--------|
   |CPU | any |
   | GPU | any |
-  | RAM | >512 MB |
+  | RAM | >256 MB |
   | Storage | any |
   
   Supported OS:
