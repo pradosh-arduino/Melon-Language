@@ -23,5 +23,5 @@ Melon Language Supports both compiling AND interpreting
 | * | writes a custom value into address|
 | \ | jumps to a certain position|
 | / | copy the address to a specific place|
-|^ = check if the address is <your value> or not|
-|! = quit|
+|^ | check if the address is <your value> or not|
+|! | quit|
