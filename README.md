@@ -38,3 +38,37 @@ close the window and open setting.json it will be located in the place where you
   
 I recommend this settings: ![setting.json](https://github.com/pradosh-arduino/Melon-Language/blob/main/settings.json)
   
+# Hardware
+  windows requirements:
+  
+  |Software Needed |
+  |----------------|
+  | none |
+    
+  | Hardware | Amount |
+  |----------|--------|
+  |CPU | any |
+  | GPU | any |
+  | RAM | >512 MB |
+  | Storage | any |
+
+  linux requirements:
+  
+  |Software Needed |
+  |----------------|
+  | Wine loaded with Win10 |
+  
+  | Hardware | Amount |
+  |----------|--------|
+  |CPU | any |
+  | GPU | any |
+  | RAM | >512 MB |
+  | Storage | any |
+  
+  Supported OS:
+  
+  | OS name | Version |
+  |---------|---------|
+  | Windows | > 10 |
+  | Linux (with wine loaded | any |
+  
