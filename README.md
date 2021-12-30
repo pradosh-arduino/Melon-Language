@@ -26,5 +26,15 @@ Melon Language Supports both compiling AND interpreting
 |^ | check if the address is <your value> or not|
 |! | quit|
 
-# Example Code
+# Setup
+After downloading the .zip or .exe file run it, at first it will tell "settings.json has been created. please edit it before running it, you may close this window"
+close the window and open setting.json it will be located in the place where your .exe is, open it and change the vars here is the defenition
+| VAR Name | Info |
+|----------|------|
+| OutputPath | the path where your compiled output will be |
+| OutputName | The Output name of your compiled output |
+| OutputFormat | The format of the output, right now it only supports hex and bin |
+| ProgramPath | The path for you main.mlf |
+  
+I recommend this settings:
   
