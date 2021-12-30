@@ -36,5 +36,5 @@ close the window and open setting.json it will be located in the place where you
 | OutputFormat | The format of the output, right now it only supports hex and bin |
 | ProgramPath | The path for you main.mlf |
   
-I recommend this settings:
+I recommend this settings: ![setting.json](https://github.com/pradosh-arduino/Melon-Language/blob/main/settings.json)
   
