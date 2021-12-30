@@ -25,3 +25,6 @@ Melon Language Supports both compiling AND interpreting
 | / | copy the address to a specific place|
 |^ | check if the address is <your value> or not|
 |! | quit|
+
+# Example Code
+  
