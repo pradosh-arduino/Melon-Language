@@ -8,23 +8,28 @@ Melon Language Supports both compiling AND interpreting
 
 # Syntax
 
-| Command | Info |
-|---------|----- |
-| > | move the cursor right by 1|
-| < | move the cursor left by 1|
-| + | add the Address that is selected in cursor|
-| - | subtract the Address that is selected in cursor|
-| ; | print the Array in the screen|
-| @ | compile the values into a executable file|
-| % | clears the screen|
-| $ | resets all address|
-| & | loads program into memory|
-| ~ | executes the program in text format|
-| * | writes a custom value into address|
-| \ | jumps to a certain position|
-| / | copy the address to a specific place|
-|^ | check if the address is "your value" or not|
-|! | quit|
+| command | defenition                                                               |                           syntax |
+|---------|--------------------------------------------------------------------------|--------------------------------|
+|  >   | move the cursor right by 1                                                  |                              > |
+|  <   | move the cursor left by 1                                                   |                              < |
+|  +   | add the Address that is selected in cursor                                  |                              + |
+|  -   | subtract the Address that is selected in cursor                             |                              - |
+|  ;   | print the Array in the screen                                               |                              ; |
+|  @   | compile the values into a executable file                                   |                              @ |
+|  %   | clears the screen                                                           |                              % |
+|  $   | resets all address                                                          |                              $ |
+|  &   | loads program into memory or executes some commands                         |                              & |
+|  ~   | executes the program in text format                                         |                              ~ |
+|  *   | writes a custom value into address                                          |                 * <next line> <your value> |
+|  \   | jumps to a certain position                                                 |                \ <next line> <your value> |
+|  /   | copy the address to a specific place                                        |                 / <next line> <your value> |
+|  ^   | check if the address is <your value> or not                                 |                 ^ <next line> <your value> |
+|  ,   | do math                                                                     |                 , <next line> <your value> |
+|  |   | save a variable                                                             | | <next line> <your var name> <next line> <your var value> |
+|  #   | write a saved variable to a address that is selected by cursor position     |                 # <next line> <your var name> |
+|  :   | Read The variables                                                          |                 : <next line> <your var name> |
+|  !   | quit                                                                        |                              ! |
+  
 
 # Setup
 After downloading the .zip or .exe file run it, at first it will tell "settings.json has been created. please edit it before running it, you may close this window"
