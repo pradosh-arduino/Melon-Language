@@ -20,14 +20,14 @@ Melon Language Supports both compiling AND interpreting
 |  $   | resets all address                                                          |                              $ |
 |  &   | loads program into memory or executes some commands                         |                              & |
 |  ~   | executes the program in text format                                         |                              ~ |
-|  *   | writes a custom value into address                                          |                 * <next line> <your value> |
-|  \   | jumps to a certain position                                                 |                \ <next line> <your value> |
-|  /   | copy the address to a specific place                                        |                 / <next line> <your value> |
-|  ^   | check if the address is <your value> or not                                 |                 ^ <next line> <your value> |
-|  ,   | do math                                                                     |                 , <next line> <your value> |
-|  |   | save a variable                                                             | | <next line> <your var name> <next line> <your var value> |
-|  #   | write a saved variable to a address that is selected by cursor position     |                 # <next line> <your var name> |
-|  :   | Read The variables                                                          |                 : <next line> <your var name> |
+|  *   | writes a custom value into address                                          |                 * "next line " "your value" |
+|  \   | jumps to a certain position                                                 |                 \ "next line " "your value" |
+|  /   | copy the address to a specific place                                        |                 / "next line " "your value" |
+|  ^   | check if the address is <your value> or not                                 |                 ^ "next line " "your value" |
+|  ,   | do math                                                                     |                 , "next line " "your value" |
+|  |   | save a variable                                                             | "next line " "your var name" "next line " "your var value" |
+|  #   | write a saved variable to a address that is selected by cursor position     |                 # "next line " "your var name" |
+|  :   | Read The variables                                                          |                 : "next line " "your var name" |
 |  !   | quit                                                                        |                              ! |
   
 
