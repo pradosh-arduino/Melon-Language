@@ -25,7 +25,7 @@ Melon Language Supports both compiling AND interpreting
 |  /   | copy the address to a specific place                                        |                 / "next line " "your value" |
 |  ^   | check if the address is <your value> or not                                 |                 ^ "next line " "your value" |
 |  ,   | do math                                                                     |                 , "next line " "your value" |
-|  |   | save a variable                                                             | `|` "next line " "your var name" "next line " "your var value" |
+|  |   | save a variable                                                             |  "next line " "your var name" "next line " "your var value" |
 |  #   | write a saved variable to a address that is selected by cursor position     |                 # "next line " "your var name" |
 |  :   | Read The variables                                                          |                 : "next line " "your var name" |
 |  !   | quit                                                                        |                              ! |
