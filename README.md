@@ -56,7 +56,7 @@ I recommend this settings: ![setting.json](https://github.com/pradosh-arduino/Me
   
   |Software Needed |
   |----------------|
-  | Wine loaded with Win10 |
+  | Wine loaded with Win10 or Mono |
   
   | Hardware | Amount |
   |----------|--------|
@@ -70,5 +70,5 @@ I recommend this settings: ![setting.json](https://github.com/pradosh-arduino/Me
   | OS name | Version | Arch |
   |---------|---------| -----|
   | Windows | > 10 | 64 Bit |
-  | Linux (with wine loaded) | any | 64 Bit |
+  | Linux (with wine loaded or Mono) | any | 64 Bit |
   
