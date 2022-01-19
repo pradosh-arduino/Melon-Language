@@ -62,7 +62,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   
   |Software Needed |
   |----------------|
-  | Wine loaded with Win10 or Mono |
+  | none |
   
   | Hardware | Amount |
   |----------|--------|
@@ -75,6 +75,6 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   
   | OS name | Version | Arch |
   |---------|---------| -----|
-  | Windows | > 10 | both 64 and 32 bit |
-  | Linux (with wine loaded or Mono) | any | both 64 and 32 bit |
+  | Windows | > 10 | x86_64 |
+  | Linux | any | x86_64 |
   
