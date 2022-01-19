@@ -42,6 +42,8 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   
   If you want definition for the Arguments always use `Melon_Language --help` or if you want to check version use `Melon_Language --version`
   
+  You can use `#this#` to get the current directory (only for output path and program path) eg. --output-path #this#
+  
 # Hardware
   **windows requirements:**
   
