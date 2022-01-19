@@ -34,7 +34,7 @@ Melon Language Supports both compiling AND interpreting
 # Setup
 After Getting .zip file if you run `Melon_Language.exe` it will not run you need arguments here is the list:
   | Argument | Syntax | IsNeeded |
-  |-|-|
+  |----------|--------|----------|
   |--output-format | --compile-format <your format> | Yes |
   |--output-name | --output-name <your name> | Yes |
   |--output-path | --output-path <your path> | Yes |
