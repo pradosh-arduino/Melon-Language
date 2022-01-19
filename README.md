@@ -43,7 +43,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   If you want definition for the Arguments always use `Melon_Language --help` or if you want to check version use `Melon_Language --version`
   
 # Hardware
-  windows requirements:
+  **windows requirements:**
   
   |Software Needed |
   |----------------|
@@ -56,7 +56,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   | RAM | >256 MB |
   | Storage | any |
 
-  linux requirements:
+  **linux requirements:**
   
   |Software Needed |
   |----------------|
@@ -69,7 +69,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   | RAM | >256 MB |
   | Storage | any |
   
-  Supported OS:
+  **Supported OS:**
   
   | OS name | Version | Arch |
   |---------|---------| -----|
