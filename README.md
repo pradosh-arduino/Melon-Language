@@ -32,16 +32,15 @@ Melon Language Supports both compiling AND interpreting
   
 
 # Setup
-After downloading the .zip or .exe file run it, at first it will tell "settings.json has been created. please edit it before running it, you may close this window"
-close the window and open setting.json it will be located in the place where your .exe is, open it and change the vars here is the defenition
-| VAR Name | Info |
-|----------|------|
-| OutputPath | the path where your compiled output will be |
-| OutputName | The Output name of your compiled output |
-| OutputFormat | The format of the output, right now it only supports hex and bin |
-| ProgramPath | The path for you main.mlf |
+After Getting .zip file if you run `Melon_Language.exe` it will not run you need arguments here is the list:
+  | Argument | Syntax | IsNeeded |
+  |-|-|
+  |--output-format | --compile-format <your format> | Yes |
+  |--output-name | --output-name <your name> | Yes |
+  |--output-path | --output-path <your path> | Yes |
+  |--program-path | --program-path <your main.mlf path> | Yes |
   
-I recommend this settings: ![setting.json](https://github.com/pradosh-arduino/Melon-Language/blob/main/settings.json)
+  If you want definition for the Arguments always use `Melon_Language --help` or if you want to check version use `Melon_Language --version`
   
 # Hardware
   windows requirements:
