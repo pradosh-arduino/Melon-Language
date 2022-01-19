@@ -1,5 +1,5 @@
 # Melon-Language
-![Melon-Banner](https://user-images.githubusercontent.com/69463173/150171555-fa8e468d-0461-4e8a-8781-680b5611a78c.png)
+![Melon-Banner](https://user-images.githubusercontent.com/69463173/150171555-fa8e468d-0461-4e8a-8781-680b5611a78c.png = 1920x1097)
 
 A Simple programming Language made with C#
 
