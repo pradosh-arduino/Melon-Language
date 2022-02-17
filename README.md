@@ -3,33 +3,60 @@
 
 A Simple programming Language made with C#
 
-# Both Compiling and Interpreting
-Melon Language Supports both compiling AND interpreting
+# What's new?
+- on work
+
+# Features
+
 
 # Syntax
+## Console
+| Commands | Info |
+|----------|------|
+|> | move the cursor right by 1 |
+|< |   move the cursor left by 1 |
+|+ | add the Address that is selected in cursor |
+|- |   subtract the Address that is selected in cursor |
+|; |   print the Array in the screen |
+|compile |  compile the values into a executable file |
+|clear |  clears the screen |
+|reset |  resets all address |
+|run |  loads program into memory or executes some commands |
+|run-text |  executes the program in text format |
+|write |  writes a custom value into address |
+|jump |  jumps to a certain position |
+|copy |  copy the address to a specific place |
+|if |  check if the address is <your_value> or not |
+|calc |  do math |
+|var |  save a variable |
+|write-var |  write a saved variable to a address that is selected by cursor position |
+|read-var |  Read The variables |
+|find-var | Find every variables |
+|quit/exit |  quit |            
 
-| command | defenition                                                               |                           syntax |
-|---------|--------------------------------------------------------------------------|----------------------------------|
-|  >   | move the cursor right by 1                                                  |                              > |
-|  <   | move the cursor left by 1                                                   |                              < |
-|  +   | add the Address that is selected in cursor                                  |                              + |
-|  -   | subtract the Address that is selected in cursor                             |                              - |
-|  ;   | print the Array in the screen                                               |                              ; |
-|  @   | compile the values into a executable file                                   |                              @ |
-|  %   | clears the screen                                                           |                              % |
-|  $   | resets all address                                                          |                              $ |
-|  &   | loads program into memory or executes some commands                         |                              & |
-|  ~   | executes the program in text format                                         |                              ~ |
-|  *   | writes a custom value into address                                          |                 * "next line " "your value" |
-|  \   | jumps to a certain position                                                 |                 \ "next line " "your value" |
-|  /   | copy the address to a specific place                                        |                 / "next line " "your value" |
-|  ^   | check if the address is <your value> or not                                 |                 ^ "next line " "your value" |
-|  ,   | do math                                                                     |                 , "next line " "your value" |
-|  `verticle bar`   | save a variable                                                |            `verticle bar`  "next line " "your var name" "next line " "your var value" |
-|  #   | write a saved variable to a address that is selected by cursor position     |                 # "next line " "your var name" |
-|  :   | Read The variables                                                          |                 : "next line " "your var name" |
-|  !   | quit                                                                        |                              ! |
-  
+## Script
+| Commands | Info |
+|----------|------|
+|> | move the cursor right by 1 |
+|< |   move the cursor left by 1 |
+|+ | add the Address that is selected in cursor |
+|- |   subtract the Address that is selected in cursor |
+|; |   print the Array in the screen |
+|clear |  clears the screen |
+|reset |  resets all address |
+|run-text |  executes the program in text format |
+|write |  writes a custom value into address |
+|jump |  jumps to a certain position |
+|copy |  copy the address to a specific place |
+|if |  check if the address is <your_value> or not |
+|calc |  do math |
+|var |  save a variable |
+|write-var |  write a saved variable to a address that is selected by cursor position |
+|read-var |  Read The variables |
+|find-var | Find every variables |
+| goto | goto start to loop infinitly or goto end to end the script much like return in C# |
+| sleep | A thread based timer (Milliseconds) |
+|quit |  quit the console with a error code|
 
 # Setup
 After Getting .zip file if you run `Melon_Language.exe` it will not run you need arguments here is the list:
