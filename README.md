@@ -82,6 +82,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   
 # Hardware
   *These requirements are not final*
+  
   **windows requirements:**
   
   |Software Needed |
