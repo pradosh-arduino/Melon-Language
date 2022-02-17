@@ -1,0 +1,9 @@
+{
+    //This code shows how sleep works!
+    write
+    3E
+
+    sleep
+    1000 
+    // 1 second of sleep
+}
