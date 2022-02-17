@@ -1,0 +1,41 @@
+{
+    //This code prints hello world!
+    write
+    48
+    >
+    write
+    65
+    >
+    write
+    6C
+    >
+    write
+    6C
+    >
+    write
+    6F
+    >
+    write
+    20
+    >
+    write
+    57
+    >
+    write
+    6F
+    >
+    write
+    72
+    >
+    write
+    6C
+    >
+    write
+    64
+    >
+    >
+    write
+    21
+
+    run-text
+}
