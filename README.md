@@ -10,9 +10,8 @@ A Simple programming Language made with C#
 - Added lot's of commands
 - friendly errors, than the old complex exceptions
 - More Control with variables (`var, var-def, delete-var, find-var, write-var`)
-
-# Features
-
+- bug fixes
+- many more!
 
 # Syntax
 ## Console
