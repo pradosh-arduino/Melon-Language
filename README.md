@@ -10,7 +10,8 @@ A Simple programming Language made with C#
 - Added lot's of commands
 - friendly errors, than the old complex exceptions
 - More Control with variables (`var, var-def, delete-var, find-var, write-var`)
-- bug fixes
+- Fixed the bug where you can get out of the limit of array length at that point it will throw a `Index was outside the bounds of the array.` error
+- bug minor fixes
 - many more!
 
 # Syntax
