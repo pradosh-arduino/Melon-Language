@@ -66,6 +66,9 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   |--output-name | --output-name <your name> | Yes |
   |--output-path | --output-path <your path> | Yes |
   |--program-path | --program-path <your main.mlf path> | Yes |
+  |--logging | --logging <true/false> | No |
+  |--splash-text | --splash-text <true/false> | No|
+  |--updates | --updates <true/false> | No |
   
   If you want definition for the Arguments always use `Melon_Language --help` or if you want to check version use `Melon_Language --version`
   
