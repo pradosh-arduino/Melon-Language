@@ -4,7 +4,12 @@
 A Simple programming Language made with C#
 
 # What's new?
-- on work
+- Changed All symbols to words
+- Changed the sytax of programming
+- Added a lot more arguments
+- Added lot's of commands
+- friendly errors, than the old complex exceptions
+- More Control with variables (`var, var-def, delete-var, find-var, write-var`)
 
 # Features
 
@@ -32,6 +37,7 @@ A Simple programming Language made with C#
 |write-var |  write a saved variable to a address that is selected by cursor position |
 |read-var |  Read The variables |
 |find-var | Find every variables |
+|var-def| Prints the lists of vars that is defined |
 |quit/exit |  quit |            
 
 ## Script
@@ -75,6 +81,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   You can use `#this#` to get the current directory (only for output path and program path) eg. `--output-path #this#`
   
 # Hardware
+  *These requirements are not final*
   **windows requirements:**
   
   |Software Needed |
