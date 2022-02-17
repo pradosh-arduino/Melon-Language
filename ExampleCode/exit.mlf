@@ -1,0 +1,11 @@
+{
+    +
+    ;
+
+    goto
+    end
+
+    //this part of code will not run
+    sleep
+    1000
+}
