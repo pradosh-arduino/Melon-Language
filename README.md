@@ -82,7 +82,7 @@ Now melon has it's own package system called as Citrullus, you can create your o
   
   **Step 6:** Add this code to your `public static void Main(string[] arg)`
               
-              ```cs
+              ```csharp
               var File1 = "main.mlf"; // your main melon language file
               //add more files
 
