@@ -82,7 +82,7 @@ Now melon has it's own package system called as Citrullus, you can create your o
   
   **Step 6:** Add this code to your `public static void Main(string[] arg)`
               
-              ```
+              csharp
               var File1 = "main.mlf"; // your main melon language file
               //add more files
 
@@ -102,7 +102,7 @@ Now melon has it's own package system called as Citrullus, you can create your o
 
             var filePackageReader = new FilePackageReader(packageFilePath);
             var filenameFileContentDictionary = filePackageReader.GetFilenameFileContentDictionary();
-            ```
+            
    **Step 7:** Change the code to your needs
    
    **Step 8:** make a new file called as `main.mlf` and type your code there, if you want to add more files you can use `import <new_line> <your_filename_without_extention>` then add that to the code in **Step 6**
