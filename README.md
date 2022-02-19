@@ -104,6 +104,25 @@ var filenameFileContentDictionary = filePackageReader.GetFilenameFileContentDict
    **Step 7:** Change the code to your needs
    
    **Step 8:** make a new file called as `main.mlf` and type your code there, if you want to add more files you can use `import <new_line> <your_filename_without_extention>` then add that to the code in **Step 6**
+   Here is a example:
+   **main.mlf**
+   ```melon
+   {
+    convert
+    Hello World!
+    
+    import
+    sub
+   }
+   ```
+   **sub.mlf**
+   ```melon
+   {
+    var
+    test
+    3E
+   }
+   ```
    
    **Step 9:** type `dotnet run` and your package should be generated
    
