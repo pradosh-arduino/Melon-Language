@@ -64,6 +64,51 @@ A Simple programming Language made with C#
 | sleep | A thread based timer (Milliseconds) |
 |quit |  quit the console with a error code|
 
+# Package System
+Now melon has it's own package system called as Citrullus, you can create your own packages too with Citrullus API here is the steps to make your own package for Melon Language
+## Creating a Package
+  **Step 1:** Create a new directory with your package name
+  
+  **Step 2:** Open VSC or any terminal and type `dotnet new console`
+  
+  **Step 3:** Type this in the terminal `dotnet add package Melon_Language --version 2.3.0` this will add Melon API with CitrullusAPI
+
+  **Step 4:** Now Import `Melon_Package` and `Citrullus`
+              like this:
+              ```using Melon_Package;
+                 using Citrullus;```
+                 
+  **Step 5:** Create a new namepace and a class
+  
+  **Step 6:** Add this code to your `public static void Main(string[] arg)`
+              
+              ```C# var File1 = "main.mlf"; // your main melon language file
+              //add more files
+
+            var packageFilePath = "PackageTest\\test.pkg";
+
+            var filePackage = new FilePackage
+            {
+                FilePath = packageFilePath,
+                ContentFilePathList = new List<string>
+                {
+                    File1, //add more files
+                }
+            };
+
+            var filePackageWriter = new FilePackageWriter(filePackage);
+            filePackageWriter.GeneratePackage(true);
+
+            var filePackageReader = new FilePackageReader(packageFilePath);
+            var filenameFileContentDictionary = filePackageReader.GetFilenameFileContentDictionary();```
+   **Step 7:** Change the code to your needs
+   
+   **Step 8:** make a new file called as `main.mlf` and type your code there, if you want to add more files you can use `import <new_line> <your_filename_without_extention` then    add that to the code in **Step 6**
+   
+   **Step 9:** type `dotnet run` and your package should be generated
+   
+   **DONE!**
+
 # Setup
 After Getting .zip file if you run `Melon_Language.exe` it will not run you need arguments here is the list:
   | Argument | Syntax | IsNeeded |
