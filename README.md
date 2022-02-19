@@ -105,7 +105,7 @@ Now melon has it's own package system called as Citrullus, you can create your o
             ```
    **Step 7:** Change the code to your needs
    
-   **Step 8:** make a new file called as `main.mlf` and type your code there, if you want to add more files you can use `import <new_line> <your_filename_without_extention` then    add that to the code in **Step 6**
+   **Step 8:** make a new file called as `main.mlf` and type your code there, if you want to add more files you can use `import <new_line> <your_filename_without_extention>` then add that to the code in **Step 6**
    
    **Step 9:** type `dotnet run` and your package should be generated
    
