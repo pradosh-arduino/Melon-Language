@@ -127,6 +127,9 @@ var filenameFileContentDictionary = filePackageReader.GetFilenameFileContentDict
    **Step 9:** type `dotnet run` and your package should be generated
    
    **DONE!**
+   
+## Loading the package
+   Open the package with WinRAR or 7zip and drag the files out to your Melon_Language.exe's path and run melon language then type `run` in melon CLI
 
 # Setup
 After Getting .zip file if you run `Melon_Language.exe` it will not run you need arguments here is the list:
