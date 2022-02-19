@@ -81,27 +81,25 @@ Now melon has it's own package system called as Citrullus, you can create your o
   **Step 5:** Create a new namepace and a class
   
   **Step 6:** Add this code to your `public static void Main(string[] arg)`
-              
-              csharp
-              var File1 = "main.mlf"; // your main melon language file
-              //add more files
+```csharp
+var File1 = "main.mlf"; // your main melon language file
+//add more files
 
-            var packageFilePath = "PackageTest\\test.pkg";
+var packageFilePath = "PackageTest\\test.pkg";
+var filePackage = new FilePackage
+{
+    FilePath = packageFilePath,
+    ContentFilePathList = new List<string>
+    {
+        File1, //add more files
+    }
+};
 
-            var filePackage = new FilePackage
-            {
-                FilePath = packageFilePath,
-                ContentFilePathList = new List<string>
-                {
-                    File1, //add more files
-                }
-            };
-
-            var filePackageWriter = new FilePackageWriter(filePackage);
-            filePackageWriter.GeneratePackage(true);
-
-            var filePackageReader = new FilePackageReader(packageFilePath);
-            var filenameFileContentDictionary = filePackageReader.GetFilenameFileContentDictionary();
+var filePackageWriter = new FilePackageWriter(filePackage);
+filePackageWriter.GeneratePackage(true);
+var filePackageReader = new FilePackageReader(packageFilePath);
+var filenameFileContentDictionary = filePackageReader.GetFilenameFileContentDictionary();
+```
             
    **Step 7:** Change the code to your needs
    
