@@ -62,6 +62,7 @@ A Simple programming Language made with C#
 |find-var | Find every variables |
 | goto | goto start to loop infinitly or goto end to end the script much like return in C# |
 | sleep | A thread based timer (Milliseconds) |
+| import | Import other .mlf to your main.mlf |
 |quit |  quit the console with a error code|
 
 # Package System
