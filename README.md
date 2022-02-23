@@ -14,6 +14,14 @@ A Simple programming Language made with C#
 - bug minor fixes
 - many more!
 
+**v2.4.0:**
+ - Added a lot of package control
+ - Improved stability issues
+ - implemented heap with malloc and free
+ - small or minor bug fixes
+ - improved stability issues
+ - many more!
+
 # Syntax
 ## Console
 | Commands | Info |
