@@ -3,6 +3,8 @@
 
 A Simple programming Language made with C#
 
+here the wiki > https://github.com/pradosh-arduino/Melon-Language/wiki
+
 # What's new?
 - Changed All symbols to words
 - Changed the sytax of programming
