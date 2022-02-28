@@ -51,6 +51,9 @@ here the wiki > https://github.com/pradosh-arduino/Melon-Language/wiki
 |import | You can import build in librarys right now availabe are `heap` |
 |malloc |  dynamic memory allocation, used with `import <next_line> heap` |
 |free | returns back the values to the memory |
+|load-pkg | loads a package |
+|generate-pkg | generates a package with main.mlf |
+|fetch-pkg | downloads a pkg from https://github.com/pradosh-arduino/Citrullus-Packages |
 |quit/exit |  quit |            
 
 ## Script
