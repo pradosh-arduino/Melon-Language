@@ -48,14 +48,18 @@ here the wiki > https://github.com/pradosh-arduino/Melon-Language/wiki
 |read-var |  Read The variables |
 |find-var | Find every variables |
 |var-def| Prints the lists of vars that is defined |
-|import | You can import build in librarys right now availabe are `heap` |
-|malloc |  dynamic memory allocation, used with `import <next_line> heap` |
-|free | returns back the values to the memory |
+|import | You can import build in librarys |
 |load-pkg | loads a package |
 |generate-pkg | generates a package with main.mlf |
 |fetch-pkg | downloads a pkg from https://github.com/pradosh-arduino/Citrullus-Packages |
 |quit/exit |  quit |            
 
+Heap:
+ | Commands | Info |
+ |----------|------|
+ |malloc |  dynamic memory allocation, used with `import <next_line> heap` |
+ |free | returns back the values to the memory |
+ 
 ## Script
 | Commands | Info |
 |----------|------|
