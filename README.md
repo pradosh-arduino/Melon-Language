@@ -54,7 +54,7 @@ here the wiki > https://github.com/pradosh-arduino/Melon-Language/wiki
 |fetch-pkg | downloads a pkg from https://github.com/pradosh-arduino/Citrullus-Packages |
 |quit/exit |  quit |            
 
-Heap:
+### Heap:
  | Commands | Info |
  |----------|------|
  |malloc |  dynamic memory allocation, used with `import <next_line> heap` |
