@@ -33,7 +33,7 @@ here the wiki > https://github.com/pradosh-arduino/Melon-Language/wiki
 |var-def| Prints the lists of vars that is defined |
 |import | You can import build in librarys |
 |load-pkg | loads a package |
-|generate-pkg | generates a package with main.mlf |
+|gen-pkg | generates a package with main.mlf |
 |fetch-pkg | downloads a pkg from https://github.com/pradosh-arduino/Citrullus-Packages |
 |quit/exit |  quit |            
 
@@ -73,9 +73,16 @@ here the wiki > https://github.com/pradosh-arduino/Melon-Language/wiki
 |find-var | Find every variables |
 | goto | goto start to loop infinitly or goto end to end the script much like return in C# |
 | sleep | A thread based timer (Milliseconds) |
-| import | Import other .mlf to your main.mlf |
+| importf | Import other .mlf to your main.mlf |
+| importl | imports any built-in library |
 |quit |  quit the console with a error code|
 
+### Graphics
+ | Commands | Info |
+ |----------|------|
+ | println | prints a text then goes to a new line |
+ | printf | prints a text |
+ 
 # Package System
 Now melon has it's own package system called as Citrullus, you can create your own packages too with Citrullus API.
 
