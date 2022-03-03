@@ -7,25 +7,6 @@ here the wiki > https://github.com/pradosh-arduino/Melon-Language/wiki
 
 **NOTE:** It's recommmended to use VSCode terminal or windows terminal
 
-# What's new?
-- Changed All symbols to words
-- Changed the sytax of programming
-- Added a lot more arguments
-- Added lot's of commands
-- friendly errors, than the old complex exceptions
-- More Control with variables (`var, var-def, delete-var, find-var, write-var`)
-- Fixed the bug where you can get out of the limit of array length at that point it will throw a `Index was outside the bounds of the array.` error
-- bug minor fixes
-- many more!
-
-**v2.4.0:**
- - Added a lot of package control
- - Improved stability issues
- - implemented heap with malloc and free
- - small or minor bug fixes
- - improved stability issues
- - many more!
-
 # Syntax
 ## Console
 | Commands | Info |
