@@ -1,8 +1,0 @@
-{
-  write
-  3E
-  
-  if
-  3E
-  //this script shoud return true
-}
