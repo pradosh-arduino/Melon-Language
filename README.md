@@ -5,6 +5,8 @@ A Simple programming Language made with C#
 
 here the wiki > https://github.com/pradosh-arduino/Melon-Language/wiki
 
+**NOTE:** It's recommmended to use VSCode terminal or windows terminal
+
 # What's new?
 - Changed All symbols to words
 - Changed the sytax of programming
