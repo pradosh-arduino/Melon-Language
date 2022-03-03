@@ -37,11 +37,19 @@ here the wiki > https://github.com/pradosh-arduino/Melon-Language/wiki
 |fetch-pkg | downloads a pkg from https://github.com/pradosh-arduino/Citrullus-Packages |
 |quit/exit |  quit |            
 
-### Heap:
+### Heap
  | Commands | Info |
  |----------|------|
  |malloc |  dynamic memory allocation, used with `import <next_line> heap` |
  |free | returns back the values to the memory |
+ 
+### Graphics
+ | Commands | Info |
+ |----------|------|
+ | println | prints a text then goes to a new line |
+ | printf | prints a text |
+ | colour | changes console colour |
+ | set-cursor-pos | sets cursor pos |
  
 ## Script
 | Commands | Info |
