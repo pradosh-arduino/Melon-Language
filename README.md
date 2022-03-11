@@ -3,7 +3,7 @@
 
 A Simple programming Language made with C#
 
-here the wiki > https://github.com/pradosh-arduino/Melon-Language/wiki
+![downloads](https://img.shields.io/github/downloads/pradosh-arduino/Melon-Language/total?style=flat-square)
 
 **NOTE:** It's recommmended to use VSCode terminal or windows terminal
 
