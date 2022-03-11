@@ -4,6 +4,7 @@
 A Simple programming Language made with C#
 
 ![downloads](https://img.shields.io/github/downloads/pradosh-arduino/Melon-Language/total?style=flat-square)
+[![discord](https://img.shields.io/discord/902455221039530004?style=flat-square)](https://discord.gg/ChP4RMgcKG)
 
 **NOTE:** It's recommmended to use VSCode terminal or windows terminal
 
