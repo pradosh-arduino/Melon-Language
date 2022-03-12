@@ -40,11 +40,12 @@ A Simple programming Language made with C#
 | time | showns time it even has like `time.month` to show current month or `time.day` or `time.week` etc|
 |quit/exit |  closes melon | 
 
-### ~Heap~ going to get removed on 2.6.0
+### Heap
  | Commands | Info |
  |----------|------|
- |malloc |  dynamic memory allocation, used with `import <next_line> heap` |
- |free | returns back the values to the memory |
+ |~malloc~ |  ~dynamic memory allocation, used with `import <next_line> heap`~ |
+ |~free~ | ~returns back the values to the memory~ |
+ **going to get removed**
  
 ### Graphics
  | Commands | Info |
