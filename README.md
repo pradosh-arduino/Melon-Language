@@ -32,15 +32,15 @@ A Simple programming Language made with C#
 |var |  save a variable |
 |write-var |  write a saved variable to a address that is selected by cursor position |
 |read-var |  Read The variables |
-|find-var | Find every variables |
 |var-def| Prints the lists of vars that is defined |
 |import | You can import build in librarys |
 |load-pkg | loads a package |
 |gen-pkg | generates a package with main.mlf |
 |fetch-pkg | downloads a pkg from https://github.com/pradosh-arduino/Citrullus-Packages |
-|quit/exit |  quit |            
+| time | showns time it even has like `time.month` to show current month or `time.day` or `time.week` etc|
+|quit/exit |  closes melon | 
 
-### Heap
+### ~Heap~ going to get removed on 2.6.0
  | Commands | Info |
  |----------|------|
  |malloc |  dynamic memory allocation, used with `import <next_line> heap` |
