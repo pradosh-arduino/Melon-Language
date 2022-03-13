@@ -109,7 +109,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
 # Hardware
   *These requirements are not final*
   
-  **windows requirements:**
+  ## windows requirements:
   
   |Software Needed |
   |----------------|
@@ -122,7 +122,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   | RAM | >256 MB |
   | Storage | any |
 
-  **linux requirements:**
+  ## linux requirements:
   
   |Software Needed |
   |----------------|
@@ -135,7 +135,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   | RAM | >256 MB |
   | Storage | any |
   
-  **Supported OS:**
+  ## Supported OS:
   
   | OS name | Version | Arch |
   |---------|---------| -----|
