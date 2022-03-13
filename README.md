@@ -5,12 +5,10 @@
 
 ![Capture](https://user-images.githubusercontent.com/69463173/158023102-2538ad2a-c541-49e4-b448-c6b4b1d7bfd0.PNG)
 
-A Simple programming Language made with C#
-
 ![downloads](https://img.shields.io/github/downloads/pradosh-arduino/Melon-Language/total?style=flat-square)
 [![discord](https://img.shields.io/discord/902455221039530004?style=flat-square)](https://discord.gg/ChP4RMgcKG)
 
-**NOTE:** It's recommmended to use VSCode terminal or windows terminal
+**NOTE:** It's Recommmended to use VSCode terminal or Windows Terminal
 
 # Syntax
 ## Console
