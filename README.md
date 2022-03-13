@@ -108,8 +108,6 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   You can use `#this#` to get the current directory (only for output path and program path) eg. `--output-path #this#`
   
 # Hardware
-  *These requirements are not final*
-  
   ## windows requirements:
   
   |Software Needed |
@@ -120,7 +118,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   |----------|--------|
   |CPU | any |
   | GPU | any |
-  | RAM | >256 MB |
+  | RAM | >50 MB |
   | Storage | any |
 
   ## linux requirements:
@@ -133,7 +131,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   |----------|--------|
   |CPU | any |
   | GPU | any |
-  | RAM | >256 MB |
+  | RAM | >50 MB |
   | Storage | any |
   
   ## Supported OS:
