@@ -112,7 +112,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   
   |Software Needed |
   |----------------|
-  | none |
+  | C# Runtime Library |
     
   | Hardware | Amount |
   |----------|--------|
@@ -125,7 +125,7 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   
   |Software Needed |
   |----------------|
-  | none |
+  | C# Runtime Library |
   
   | Hardware | Amount |
   |----------|--------|
