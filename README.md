@@ -7,6 +7,7 @@
 
 ![downloads](https://img.shields.io/github/downloads/pradosh-arduino/Melon-Language/total?style=flat-square)
 [![discord](https://img.shields.io/discord/902455221039530004?style=flat-square)](https://discord.gg/ChP4RMgcKG)
+![issues](https://img.shields.io/github/issues/pradosh-arduino/Melon-Language?style=flat-square)
 
 **NOTE:** It's Recommmended to use VSCode terminal or Windows Terminal
 
