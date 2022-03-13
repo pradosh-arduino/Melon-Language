@@ -1,8 +1,6 @@
 # Melon-Language
 ![Melon-Banner](https://user-images.githubusercontent.com/69463173/150173009-32ea2a94-9286-4c27-aeaf-c37dc1d6bdd4.png)
 
-![citrullus-banner](https://user-images.githubusercontent.com/69463173/158047027-edf867ce-f9e7-46f3-9b98-4798b280c586.png)
-
 ![Capture](https://user-images.githubusercontent.com/69463173/158023102-2538ad2a-c541-49e4-b448-c6b4b1d7bfd0.PNG)
 
 A Simple programming Language made with C#
