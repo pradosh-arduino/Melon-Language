@@ -1,5 +1,5 @@
 # Melon-Language
-![Melon-Banner](https://user-images.githubusercontent.com/69463173/150173009-32ea2a94-9286-4c27-aeaf-c37dc1d6bdd4.png)
+![ml-banner](https://user-images.githubusercontent.com/69463173/158062823-ea321f58-0fdc-44f0-a3c2-143848e7f8f0.png)
 
 ![citrullus-banner](https://user-images.githubusercontent.com/69463173/158047253-6a384476-cfdf-42b4-8f02-5e00ab1d4405.png)
 
