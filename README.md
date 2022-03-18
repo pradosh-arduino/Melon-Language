@@ -66,6 +66,9 @@
 </details>
  
 ## Script
+  <details>
+    <summary>Click to expand scripting commands</summary>
+    
 | Commands | Info |
 |----------|------|
 |> | move the cursor right by 1 |
@@ -97,6 +100,8 @@
  | println | prints a text then goes to a new line |
  | printf | prints a text |
  
+</details>
+  
 # Package System
 Now melon has it's own package system called as Citrullus, you can create your own packages too with Citrullus API.
 
