@@ -15,6 +15,8 @@
 
 **NOTE:** It's Recommmended to use VSCode terminal or Windows Terminal
 
+*no pull request are accepted*
+
 # Syntax
 ## Console
 <details>
