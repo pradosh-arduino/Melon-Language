@@ -16,8 +16,9 @@
 **NOTE:** It's Recommmended to use VSCode terminal or Windows Terminal
 
 # Syntax
+## Console
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand console commands</summary>
   
   | Commands | Info |
 |----------|------|
@@ -47,10 +48,7 @@
 | time | showns time it even has like `time.month` to show current month or `time.day` or `time.week` etc|
 |quit/exit |  closes melon |
   
-</details>
-
-## Console
- 
+</details> 
 
 ### Heap
  | Commands | Info |
