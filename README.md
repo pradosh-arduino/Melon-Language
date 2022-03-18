@@ -16,6 +16,15 @@
 **NOTE:** It's Recommmended to use VSCode terminal or Windows Terminal
 
 # Syntax
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 ## Console
 | Commands | Info |
 |----------|------|
