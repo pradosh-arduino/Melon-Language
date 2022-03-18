@@ -38,7 +38,7 @@
 |import | You can import build in librarys |
 |load-pkg | loads a package |
 |gen-pkg | generates a package with main.mlf |
-|fetch-pkg | downloads a pkg from [Citrullus Server](https://github.com/pradosh-arduino/Citrullus-Packages) |
+|fetch-pkg | downloads a pkg from [Citrullus Server](https://cdn.jsdelivr.net/gh/pradosh-arduino/Citrullus-Packages/) |
 | time | showns time it even has like `time.month` to show current month or `time.day` or `time.week` etc|
 |quit/exit |  closes melon | 
 
