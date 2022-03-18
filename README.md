@@ -25,6 +25,7 @@
      * With some
      * Sub bullets
 </details>
+
 ## Console
 | Commands | Info |
 |----------|------|
