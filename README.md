@@ -18,6 +18,7 @@
 # Syntax
 <details>
   <summary>Click to expand!</summary>
+  
   | Commands | Info |
 |----------|------|
 |> | move the cursor right by 1 |
@@ -45,6 +46,7 @@
 |fetch-pkg | downloads a pkg from [Citrullus Server](https://cdn.jsdelivr.net/gh/pradosh-arduino/Citrullus-Packages/) |
 | time | showns time it even has like `time.month` to show current month or `time.day` or `time.week` etc|
 |quit/exit |  closes melon |
+  
 </details>
 
 ## Console
