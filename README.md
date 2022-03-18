@@ -18,16 +18,7 @@
 # Syntax
 <details>
   <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
-## Console
-| Commands | Info |
+  | Commands | Info |
 |----------|------|
 |> | move the cursor right by 1 |
 |< |   move the cursor left by 1 |
@@ -53,7 +44,11 @@
 |gen-pkg | generates a package with main.mlf |
 |fetch-pkg | downloads a pkg from [Citrullus Server](https://cdn.jsdelivr.net/gh/pradosh-arduino/Citrullus-Packages/) |
 | time | showns time it even has like `time.month` to show current month or `time.day` or `time.week` etc|
-|quit/exit |  closes melon | 
+|quit/exit |  closes melon |
+</details>
+
+## Console
+ 
 
 ### Heap
  | Commands | Info |
