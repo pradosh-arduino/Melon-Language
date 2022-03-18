@@ -11,6 +11,7 @@
 [![license](https://img.shields.io/badge/License-MIT-orange?style=flat-square)](https://github.com/pradosh-arduino/Melon-Language/blob/main/LICENSE)
 [![hits](https://data.jsdelivr.com/v1/package/gh/pradosh-arduino/Citrullus-Packages/badge)](https://www.jsdelivr.com/package/gh/pradosh-arduino/Citrullus-Packages)
 ![pkg-size](https://img.shields.io/github/repo-size/pradosh-arduino/Citrullus-Packages?label=Citrullus%20Packages%20Size&style=flat-square)
+
 **NOTE:** It's Recommmended to use VSCode terminal or Windows Terminal
 
 # Syntax
