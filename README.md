@@ -1,4 +1,4 @@
-# Melon-Language
+# 🍉 Melon-Language
 ![ml-banner](https://user-images.githubusercontent.com/69463173/158062823-ea321f58-0fdc-44f0-a3c2-143848e7f8f0.png)
 
 ![citrullus-banner](https://user-images.githubusercontent.com/69463173/158047253-6a384476-cfdf-42b4-8f02-5e00ab1d4405.png)
@@ -102,10 +102,10 @@
  
 </details>
   
-# Package System
+# 📦 Package System
 Now melon has it's own package system called as Citrullus, you can create your own packages too with Citrullus API.
 
-# Setup
+# 👨‍💻 Setup
 After Getting .zip file if you run `Melon_Language.exe` it will not run you need arguments here is the list:
   | Argument | Syntax | Is Needed |
   |----------|--------|----------|
@@ -156,5 +156,5 @@ After Getting .zip file if you run `Melon_Language.exe` it will not run you need
   | Windows | > 10 | x86_64 |
   | Linux | any | x86_64 |
   
- # Feedback
+ # 💖 Feedback
  [![Feedback](https://img.shields.io/badge/Feedback-Github-green)](https://gist.github.com/pradosh-arduino/4bf93fbf971f583c4d946282dac60e32)
