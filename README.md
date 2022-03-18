@@ -48,8 +48,6 @@
 | time | showns time it even has like `time.month` to show current month or `time.day` or `time.week` etc|
 |quit/exit |  closes melon |
   
-</details> 
-
 ### Heap
  | Commands | Info |
  |----------|------|
@@ -64,6 +62,8 @@
  | printf | prints a text |
  | colour | changes console colour |
  | set-cursor-pos | sets cursor pos |
+  
+</details>
  
 ## Script
 | Commands | Info |
