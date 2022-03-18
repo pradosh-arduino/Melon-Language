@@ -30,8 +30,8 @@
 |compile |  compile the values into a executable file |
 |clear |  clears the screen |
 |reset |  resets all address |
-|run |  loads program into memory or executes some commands |
-|run-text |  executes the program in text format |
+|run |  runs the script |
+|run-text |  executes the addresses in text format |
 |write |  writes a custom value into address |
 |jump |  jumps to a certain position |
 |copy |  copy the address to a specific place |
@@ -53,6 +53,7 @@
  |----------|------|
  |~malloc~ |  ~dynamic memory allocation, used with `import <next_line> heap`~ |
  |~free~ | ~returns back the values to the memory~ |
+  
  **going to get removed**
  
 ### Graphics
