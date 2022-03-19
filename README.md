@@ -109,7 +109,7 @@
 Now melon has it's own package system called as Citrullus, you can create your own packages too with Citrullus API.
 
 # 👨‍💻 Setup
-After Getting .zip file if you run `Melon_Language.exe` it will not run you need arguments here is the list:
+After Getting .zip file if you run `Melon Language.exe` it will not run you need arguments here is the list:
   | Argument | Syntax | Is Needed |
   |----------|--------|----------|
   |--output-format | --output-format <your format> | Yes |
