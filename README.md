@@ -159,5 +159,5 @@ After Getting .zip file if you run `Melon Language.exe` it will not run you need
   | Linux | any | x86_64 |
   
  # 💖 Feedback
- [![Feedback](https://img.shields.io/badge/Feedback-Github-green)](https://gist.github.com/pradosh-arduino/4bf93fbf971f583c4d946282dac60e32)
+ [![Feedback](https://img.shields.io/badge/Feedback-Github-green?style=flat-square)](https://gist.github.com/pradosh-arduino/4bf93fbf971f583c4d946282dac60e32)
  
