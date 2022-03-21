@@ -1,4 +1,3 @@
-# 🍉 Melon-Language
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/69463173/158062823-ea321f58-0fdc-44f0-a3c2-143848e7f8f0.png"
