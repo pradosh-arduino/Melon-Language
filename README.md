@@ -5,7 +5,6 @@
   <h2 align="center">😉 Simple, 💾 Low Level, 👨‍💻 PPL</h2>
   <h3 align="center">Melon is a simple, low level, procedural programming language (PPL). made for low level control with a interpreter and a compiler<h3>
 </p>
-  <title>Melon Language</title>
   
 #  
   
