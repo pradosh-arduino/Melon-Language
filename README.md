@@ -106,9 +106,11 @@
 </details>
   
 <h2 align="center">📦 Package System</h2>
+  
 Now melon has it's own package system called as Citrullus, you can create your own packages too with Citrullus API.
 
 <h2 align="center">💻 Setup</h2>
+  
 After Getting .zip file if you run `Melon Language.exe` it will not run you need arguments here is the list:
   | Argument | Syntax | Is Needed |
   |----------|--------|----------|
@@ -126,6 +128,7 @@ After Getting .zip file if you run `Melon Language.exe` it will not run you need
   You can use `#this#` to get the current directory (only for output path and program path) eg. `--output-path #this#`
   
   <h2 align="center">💽 Hardware </h2>
+  
   ## windows requirements:
   
   |Software Needed |
