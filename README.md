@@ -3,7 +3,7 @@
   <img
     src="https://user-images.githubusercontent.com/69463173/158062823-ea321f58-0fdc-44f0-a3c2-143848e7f8f0.png"
   >
-  Simple, Fast, PPL
+  <h1>Simple, Fast, PPL</h1>
 </p>
 
 ![Capture](https://user-images.githubusercontent.com/69463173/158023102-2538ad2a-c541-49e4-b448-c6b4b1d7bfd0.PNG)
