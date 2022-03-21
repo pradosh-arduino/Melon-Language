@@ -5,9 +5,7 @@
   <h2 align="center">😉 Simple, 💾 Low Level, 👨‍💻 PPL</h2>
   <h3 align="center">Melon is a simple, low level, procedural programming language (PPL). made for low level control with a interpreter and a compiler<h3>
 </p>
-
-![Capture](https://user-images.githubusercontent.com/69463173/158023102-2538ad2a-c541-49e4-b448-c6b4b1d7bfd0.PNG)
-
+===
 [![downloads](https://img.shields.io/github/downloads/pradosh-arduino/Melon-Language/total?style=flat-square)](https://github.com/pradosh-arduino/Melon-Language/releases)
 [![discord](https://img.shields.io/discord/902455221039530004?style=flat-square)](https://discord.gg/ChP4RMgcKG)
 [![issues](https://img.shields.io/github/issues/pradosh-arduino/Melon-Language?style=flat-square)](https://github.com/pradosh-arduino/Melon-Language/issues)
