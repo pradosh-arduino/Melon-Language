@@ -4,6 +4,7 @@
     src="https://user-images.githubusercontent.com/69463173/158062823-ea321f58-0fdc-44f0-a3c2-143848e7f8f0.png"
   >
   <h2 align="center">😉 Simple, 💾 Low Level, 👨‍💻 PPL</h2>
+  <h3 align-"center">Melon is a simple, low level, procedural programming language (PPL). made for low level control with a interpreter and a compiler<h3>
 </p>
 
 ![Capture](https://user-images.githubusercontent.com/69463173/158023102-2538ad2a-c541-49e4-b448-c6b4b1d7bfd0.PNG)
@@ -16,10 +17,6 @@
 ![uptime](https://img.shields.io/uptimerobot/ratio/m790982313-6e394aca6d9e2adb44b814f0?style=flat-square)
 ![isUp](https://img.shields.io/uptimerobot/status/m790982313-6e394aca6d9e2adb44b814f0?style=flat-square)
 ![commit](https://img.shields.io/github/last-commit/pradosh-arduino/Melon-Language?style=flat-square)
-
-**NOTE:** It's Recommmended to use VSCode terminal or Windows Terminal
-
-*no pull request are accepted*
 
 # Syntax
 ## Console
