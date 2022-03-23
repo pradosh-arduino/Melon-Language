@@ -8,13 +8,13 @@
   
 #
   
-  [![downloads](https://img.shields.io/github/downloads/pradosh-arduino/Melon-Language/total?style=flat-square)](https://github.com/pradosh-arduino/Melon-  Language/releases)
-  [![discord](https://img.shields.io/discord/902455221039530004?style=flat-square)](https://discord.gg/ChP4RMgcKG)
-  [![issues](https://img.shields.io/github/issues/pradosh-arduino/Melon-Language?style=flat-square)](https://github.com/pradosh-arduino/Melon-Language/issues)
-  ![pkg-size](https://img.shields.io/github/repo-size/pradosh-arduino/Citrullus-Packages?label=Citrullus%20Packages%20Size&style=flat-square)
-  ![uptime](https://img.shields.io/uptimerobot/ratio/m790982313-6e394aca6d9e2adb44b814f0?style=flat-square)
-  ![isUp](https://img.shields.io/uptimerobot/status/m790982313-6e394aca6d9e2adb44b814f0?style=flat-square)
-  ![commit](https://img.shields.io/github/last-commit/pradosh-arduino/Melon-Language?style=flat-square)
+[![downloads](https://img.shields.io/github/downloads/pradosh-arduino/Melon-Language/total?style=flat-square)](https://github.com/pradosh-arduino/Melon-Language/releases)
+[![discord](https://img.shields.io/discord/902455221039530004?style=flat-square)](https://discord.gg/ChP4RMgcKG)
+[![issues](https://img.shields.io/github/issues/pradosh-arduino/Melon-Language?style=flat-square)](https://github.com/pradosh-arduino/Melon-Language/issues)
+![pkg-size](https://img.shields.io/github/repo-size/pradosh-arduino/Citrullus-Packages?label=Citrullus%20Packages%20Size&style=flat-square)
+![uptime](https://img.shields.io/uptimerobot/ratio/m790982313-6e394aca6d9e2adb44b814f0?style=flat-square)
+![isUp](https://img.shields.io/uptimerobot/status/m790982313-6e394aca6d9e2adb44b814f0?style=flat-square)
+![commit](https://img.shields.io/github/last-commit/pradosh-arduino/Melon-Language?style=flat-square)
   
  #
   
