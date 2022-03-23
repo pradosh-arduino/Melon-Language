@@ -20,7 +20,7 @@
   
 #
   
-# Syntax
+<h1 align="center">📚 <strong>Syntax</strong></h1>
 ## Console
 <details>
   <summary>Click to expand console commands</summary>
