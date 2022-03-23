@@ -115,10 +115,10 @@ Now melon has it's own package system called as Citrullus, you can create your o
 After Getting .zip file if you run `Melon Language.exe` it will not run you need arguments here is the list:
   | Argument | Syntax | Is Needed |
   |----------|--------|----------|
-  |--output-format | --output-format <your format> | Yes |
-  |--output-name | --output-name <your name> | Yes |
-  |--output-path | --output-path <your path> | Yes |
-  |--program-path | --program-path <your main.mlf path> | Yes |
+  |--output-format | --output-format <your_format> | Yes |
+  |--output-name | --output-name <your_name> | Yes |
+  |--output-path | --output-path <your_path> | Yes |
+  |--program-path | --program-path <your_main.mlf_path> | Yes |
   |--logging | --logging <true/false> | No |
   |--splash-text | --splash-text <true/false> | No|
   |--updates | --updates <true/false> | No |
