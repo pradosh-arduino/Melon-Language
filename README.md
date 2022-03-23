@@ -4,6 +4,13 @@
   >
   <h2 align="center">😉 Simple, 💾 Low Level, 👨‍💻 PPL</h2>
   <h4 align="center">Melon is a simple, low level, procedural programming language (PPL). made for low level control with a interpreter and a compiler<h4>
+  <a href="https://github.com/pradosh-arduino/Melon-Language/releases"><img src="https://img.shields.io/github/downloads/pradosh-arduino/Melon-Language/total?style=flat-square" alt="downloads"></a>
+<a href="https://discord.gg/ChP4RMgcKG"><img src="https://img.shields.io/discord/902455221039530004?style=flat-square" alt="discord"></a>
+<a href="https://github.com/pradosh-arduino/Melon-Language/issues"><img src="https://img.shields.io/github/issues/pradosh-arduino/Melon-Language?style=flat-square" alt="issues"></a>
+<img src="https://img.shields.io/github/repo-size/pradosh-arduino/Citrullus-Packages?label=Citrullus%20Packages%20Size&amp;style=flat-square" alt="pkg-size">
+<img src="https://img.shields.io/uptimerobot/ratio/m790982313-6e394aca6d9e2adb44b814f0?style=flat-square" alt="uptime">
+<img src="https://img.shields.io/uptimerobot/status/m790982313-6e394aca6d9e2adb44b814f0?style=flat-square" alt="isUp">
+<img src="https://img.shields.io/github/last-commit/pradosh-arduino/Melon-Language?style=flat-square" alt="commit">
 </p>
   
 #
