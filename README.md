@@ -19,8 +19,8 @@
 </p>
   
 #
-<h1 align="center">🎉 <strong>We are painfully close to  50 downloads!!!</strong></h1>
-  like how cool is that! can we get to 50 downloads by this februrary end?
+<h1 align="center">🎉 <strong>Thank you sooo much! </strong></h1>
+  WE JUST GOT 50 downloads within this month thats like SOO COOL! 50 diffrent people from 50 diffrent places, 50 diffrent Version (soo cool). LIKE I HAVE NO WORDS THAN TYSM!
   
 <h1 align="center">📚 <strong>Syntax</strong></h1>
   
