@@ -17,14 +17,11 @@
 <img src="https://shields-staging.herokuapp.com/github/directory-file-count/pradosh-arduino/Citrullus-Packages?label=Total%20Citrullus%20Packages&style=flat-square" alt="totat_pkg">
 <img src="https://img.shields.io/badge/dependents-C%23%20Runtime-orange?style=flat-square">
 <img src="https://img.shields.io/github/v/release/pradosh-arduino/Melon-Language?color=green&label=Latest%20Version&style=flat-square">
+  <img src="https://img.shields.io/github/v/release/pradosh-arduino/Melon-language?include_prereleases&label=Pre-Release%20Version&style=flat-square">
 </p>
   
 #
-<h1 align="center">🎉 <strong>Thank you sooo much! </strong></h1>
-  WE JUST GOT 50 downloads within this month thats like SOO COOL! 50 diffrent people from 50 diffrent places, 50 diffrent Version (soo cool). LIKE I HAVE NO WORDS THAN TYSM!
-  
-<h1 align="center">📚 <strong>Syntax</strong></h1>
-  
+
 ## Console
 <details>
   <summary>Click to expand console commands</summary>
