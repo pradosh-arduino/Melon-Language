@@ -110,10 +110,12 @@
 </details>
 <h1 align="center">📦 <strong>Melon's Compiler</strong></h1>
   ![200w](https://user-images.githubusercontent.com/69463173/163222567-fd46cbed-5e49-40c8-87e2-2bf6674c5c99.gif)
+  
   Melon's compiler is known as neogenic-x or melonnx, which is fast
   
 <h1 align="center">⏳ <strong>Package System</strong></h1>
   ![giphy](https://user-images.githubusercontent.com/69463173/163222091-cb4dea6f-9fe4-4248-8116-2b52c6214867.gif)
+  
 Now melon has it's own package system called as Citrullus API, you can create your own packages too.
 
 <h1 align="center">💻 <strong>Setup</strong></h1>
