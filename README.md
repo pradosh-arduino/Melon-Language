@@ -19,11 +19,13 @@
 <img src="https://img.shields.io/github/v/release/pradosh-arduino/Melon-Language?color=green&label=Latest%20Version&style=flat-square">  
 #
 Melon extentions extentions
+  
   Sytax Highlight: https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-language
   
   Code Snippets: https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-code-snippets
   
 use these to have a better environment while coding in Melon
+  
 ## Console
 <details>
   <summary>Click to expand console commands</summary>
