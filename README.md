@@ -21,7 +21,12 @@
 </p>
   
 #
-
+Melon extentions extentions
+  Sytax Highlight: https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-language
+  
+  Code Snippets: https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-code-snippets
+  
+use these to have a better environment while coding in Melon
 ## Console
 <details>
   <summary>Click to expand console commands</summary>
