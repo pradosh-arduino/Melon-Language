@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/dependents-C%23%20Runtime-orange?style=flat-square">
 <img src="https://img.shields.io/github/v/release/pradosh-arduino/Melon-Language?color=green&label=Latest%20Version&style=flat-square">
   <img src="https://img.shields.io/github/v/release/pradosh-arduino/Melon-language?include_prereleases&label=Pre-Release%20Version&style=flat-square">
+<a herf="https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-language"><img src=https://img.shields.io/badge/vscode-extension(Highlight)-blue?style=flat-square&logo=visual-studio-code"></a>
+<a herf="https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-code-snippets"><img src=https://img.shields.io/badge/vscode-extension(Snippets)-blue?style=flat-square&logo=visual-studio-code"></a>
 </p>
   
 #
