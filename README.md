@@ -16,10 +16,11 @@
 <img src="https://img.shields.io/github/last-commit/pradosh-arduino/Melon-Language?style=flat-square" alt="commit">
 <img src="https://shields-staging.herokuapp.com/github/directory-file-count/pradosh-arduino/Citrullus-Packages?label=Total%20Citrullus%20Packages&style=flat-square" alt="totat_pkg">
 <img src="https://img.shields.io/badge/dependents-C%23%20Runtime-orange?style=flat-square">
-<img src="https://img.shields.io/github/v/release/pradosh-arduino/Melon-Language?color=green&label=Latest%20Version&style=flat-square">  
+<img src="https://img.shields.io/github/v/release/pradosh-arduino/Melon-Language?color=green&label=Latest%20Version&style=flat-square">
+  
 #
   
-Melon extentions extentions
+**Melon extentions extentions**
   
   Sytax Highlight: https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-language
   
