@@ -20,7 +20,7 @@
   
 #
   
-**Melon extentions extentions**
+**Melon extensions for vscode**
   
   Sytax Highlight: https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-language
   
