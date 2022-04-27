@@ -1,4 +1,4 @@
-Melon Language Eula
+**Melon Language Eula**
 
 Copyright (c) 2022 S Pradosh
 
