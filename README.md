@@ -26,8 +26,6 @@
   Code Snippets: https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-code-snippets
   
 use these to have a better environment while coding in Melon
-
-NOTE: I don't want Collab, many people asking they will help for melo, I don't want that so please stop asking to Collab
   
 ## Console
 <details>
