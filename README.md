@@ -32,33 +32,34 @@ use these to have a better environment while coding in Melon
 <details>
   <summary>Click to expand console commands</summary>
   
-  | Commands | Info |
-|----------|------|
-|> | move the cursor right by 1 |
-|< |   move the cursor left by 1 |
-|+ | add the Address that is selected in cursor |
-|- |   subtract the Address that is selected in cursor |
-|; |   print the Array in the screen |
-|compile |  compile the values into a executable file |
-|clear |  clears the screen |
-|reset |  resets all address |
-|run |  runs the script |
-|run-text |  executes the addresses in text format |
-|write |  writes a custom value into address |
-|jump |  jumps to a certain position |
-|copy |  copy the address to a specific place |
-|if |  check if the address is <your_value> or not |
-|calc |  do math |
-|var |  save a variable |
-|write-var |  write a saved variable to a address that is selected by cursor position |
-|read-var |  Read The variables |
-|var-def| Prints the lists of vars that is defined |
-|import | You can import build in librarys |
-|load-pkg | loads a package |
-|gen-pkg | generates a package with main.mlf |
-|fetch-pkg | downloads a pkg from [Citrullus Server](https://cdn.jsdelivr.net/gh/pradosh-arduino/Citrullus-Packages/) |
-| time | showns time it even has like `time.month` to show current month or `time.day` or `time.week` etc|
-|quit/exit |  closes melon |
+
+|     Commands    |                                                    Info                                                    |           Syntax           |
+|-----------------|------------------------------------------------------------------------------------------------------------|----------------------------|
+| >               |  move the cursor right by 1                                                                                |  >                         |
+| <               |    move the cursor left by 1                                                                               |  <                         |
+| +               |  add the Address that is selected in cursor                                                                |  +                         |
+| -               |    subtract the Address that is selected in cursor                                                         | -                          |
+| ;               |    print the Array in the screen                                                                           | ;                          |
+| compile         |   compile the values into a executable file                                                                | compile                    |
+| clear           |   clears the screen                                                                                        | clear                      |
+| reset           |   resets all address                                                                                       | reset                      |
+| run             |   runs the script                                                                                          | run                        |
+| cta             |   prints the addresses in text format                                                                      | cta                        |
+| write           |   writes a custom value into address                                                                       |  write \n <value>          |
+| copy            |   copy the address to the cursor position                                                                  |  copy \n <value>           |
+| if              |   (UNFINISHED) check if the address is <your_value> or not                                                 |                            |
+| calc            |   do math                                                                                                  |  calc \n <value>           |
+| var             |   save a variable                                                                                          |  var \n <var_name>         |
+| change-var      |   (BROKEN) change variable value                                                                           |                            |
+| delete-var      |   Remove a variable                                                                                        |  delete-var \n <val_name>  |
+| delete-all-vars |  Remove All variables                                                                                      |  delete-all-vars           |
+| lock-var        |  lock a variable                                                                                           | lock-var \n name           |
+| importl         |  Import build in libraries                                                                                 |  importl \n <library_name> |
+| load-pkg        |  loads a package                                                                                           |                            |
+| gen-pkg         |  generates a package with main.mlf                                                                         |                            |
+| fetch-pkg       |  downloads a pkg from [Citrullus Server](https://cdn.jsdelivr.net/gh/pradosh-arduino/Citrullus-Packages/)  |                            |
+|  time           |  shows time it even has like `time.month` to show current month or `time.day` or `time.week` etc           |                            |
+| quit/exit       |   closes melon                                                                                             |                            |
   
 ### Heap
  | Commands | Info |
