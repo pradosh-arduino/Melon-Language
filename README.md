@@ -59,22 +59,14 @@ use these to have a better environment while coding in Melon
 | fetch-pkg       |  downloads a pkg from [Citrullus Server](https://cdn.jsdelivr.net/gh/pradosh-arduino/Citrullus-Packages/)  |  fetch-pkg \n <name>       |
 |  time           |  shows time it even has like `time.month` to show current month or `time.day` or `time.week` etc           |  time                      |
 | quit/exit       |   closes melon                                                                                             |  quit (OR) exit            |
-  
-### Heap
- | Commands | Info |
- |----------|------|
- |~malloc~ |  ~dynamic memory allocation, used with `import <next_line> heap`~ |
- |~free~ | ~returns back the values to the memory~ |
-  
- **going to get removed**
  
 ### Graphics
- | Commands | Info |
- |----------|------|
- | println | prints a text then goes to a new line |
- | printf | prints a text |
- | colour | changes console colour |
- | set-cursor-pos | sets cursor pos |
+ | Commands | Info | Suntax |
+ |----------|------|----|
+ | println | prints a text then goes to a new line | println \n "<text>"
+ | printf | prints a text | printf \n "<text>"
+ | colour | changes console colour | colour \n <fg>,<bg>
+ | set-cursor-pos | sets cursor pos | set-cursor-pos \n <x>,<y>
   
 </details>
  
@@ -82,29 +74,30 @@ use these to have a better environment while coding in Melon
   <details>
     <summary>Click to expand scripting commands</summary>
     
-| Commands | Info |
-|----------|------|
-|> | move the cursor right by 1 |
-|< |   move the cursor left by 1 |
-|+ | add the Address that is selected in cursor |
-|- |   subtract the Address that is selected in cursor |
-|; |   print the Array in the screen |
-|clear |  clears the screen |
-|reset |  resets all address |
-|run-text |  executes the program in text format |
+| Commands | Info | Syntax|
+|----------|------|--|
+|function| creates a new function | function <name> \n end for calling: <name>~()|
+|> | move the cursor right by 1 |>|
+|< |   move the cursor left by 1 |<
+|+ | add the Address that is selected in cursor |+
+|- |   subtract the Address that is selected in cursor |-
+|; |   print the Array in the screen |;
+|clear |  clears the screen |clear
+|reset |  resets all address |reset
 |write |  writes a custom value into address |
-|jump |  jumps to a certain position |
+|jump |  jumps to a line number |
 |copy |  copy the address to a specific place |
 |if |  check if the address is <your_value> or not |
 |calc |  do math |
-|var |  save a variable |
 |write-var |  write a saved variable to a address that is selected by cursor position |
 |read-var |  Read The variables |
 |find-var | Find every variables |
+|convert| text to address array |
 | goto | goto start to loop infinitly or goto end to end the script much like return in C# |
 | sleep | A thread based timer (Milliseconds) |
 | importf | Import other .mlf to your main.mlf |
 | importl | imports any built-in library |
+|for| for loops | for i=1; i-10; i=+1 \n fo-end |
 |quit |  quit the console with a error code|
 
 ### Graphics
@@ -112,6 +105,7 @@ use these to have a better environment while coding in Melon
  |----------|------|
  | println | prints a text then goes to a new line |
  | printf | prints a text |
+ | set-cursor-pos | sets cursor position |
  
 </details>
 <h1 align="center">⏳ <strong>Melon's Compiler</strong></h1>
