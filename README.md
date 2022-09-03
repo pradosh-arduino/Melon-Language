@@ -31,7 +31,6 @@ use these to have a better environment while coding in Melon
 ## Console
 <details>
   <summary>Click to expand console commands</summary>
-  
 
 |     Commands    |                                                    Info                                                    |           Syntax           |
 |-----------------|------------------------------------------------------------------------------------------------------------|----------------------------|
@@ -55,11 +54,11 @@ use these to have a better environment while coding in Melon
 | delete-all-vars |  Remove All variables                                                                                      |  delete-all-vars           |
 | lock-var        |  lock a variable                                                                                           | lock-var \n name           |
 | importl         |  Import build in libraries                                                                                 |  importl \n <library_name> |
-| load-pkg        |  loads a package                                                                                           |                            |
-| gen-pkg         |  generates a package with main.mlf                                                                         |                            |
-| fetch-pkg       |  downloads a pkg from [Citrullus Server](https://cdn.jsdelivr.net/gh/pradosh-arduino/Citrullus-Packages/)  |                            |
-|  time           |  shows time it even has like `time.month` to show current month or `time.day` or `time.week` etc           |                            |
-| quit/exit       |   closes melon                                                                                             |                            |
+| load-pkg        |  loads a package                                                                                           |  load-pkg \n <name>        |
+| gen-pkg         |  generates a package with main.mlf                                                                         |  gen-pkg                   |
+| fetch-pkg       |  downloads a pkg from [Citrullus Server](https://cdn.jsdelivr.net/gh/pradosh-arduino/Citrullus-Packages/)  |  fetch-pkg \n <name>       |
+|  time           |  shows time it even has like `time.month` to show current month or `time.day` or `time.week` etc           |  time                      |
+| quit/exit       |   closes melon                                                                                             |  quit (OR) exit            |
   
 ### Heap
  | Commands | Info |
