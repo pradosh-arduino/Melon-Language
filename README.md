@@ -61,7 +61,7 @@ use these to have a better environment while coding in Melon
 | quit/exit       |   closes melon                                                                                             |  quit (OR) exit            |
  
 ### Graphics
- | Commands | Info | Suntax |
+ | Commands | Info | Syntax |
  |----------|------|----|
  | println | prints a text then goes to a new line | `println \n "<text>"`
  | printf | prints a text | `printf \n "<text>"`
@@ -105,7 +105,6 @@ use these to have a better environment while coding in Melon
  |----------|------|
  | println | prints a text then goes to a new line |
  | printf | prints a text |
- | set-cursor-pos | sets cursor position |
  
 </details>
 <h1 align="center">⏳ <strong>Melon's Compiler</strong></h1>
