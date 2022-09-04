@@ -48,8 +48,8 @@ use these to have a better environment while coding in Melon
 | copy            |   copy the address to the cursor position                                                                  |  copy \n <value>           |
 | if              |   (UNFINISHED) check if the address is <your_value> or not                                                 |                            |
 | calc            |   do math                                                                                                  |  calc \n <value>           |
-| var             |   save a variable                                                                                          |  var \n <var_name>         |
-| change-var      |   (BROKEN) change variable value                                                                           |                            |
+| var             |   save a variable                                                                                          |  var \n <var_name> \n <value> |
+| change-var      |   change variable value                                                                                    |  change-var \n <var_name> \n <value>|
 | delete-var      |   Remove a variable                                                                                        |  delete-var \n <val_name>  |
 | delete-all-vars |  Remove All variables                                                                                      |  delete-all-vars           |
 | lock-var        |  lock a variable                                                                                           | lock-var \n name           |
