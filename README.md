@@ -115,8 +115,8 @@ use these to have a better environment while coding in Melon
   Now melon has it's own package system called as Citrullus API, you can create your own packages too.
 
 <h1 align="center">💻 <strong>Setup</strong></h1>
-  
-After Getting .zip file if you run `Melon Language.exe` it will not run you need arguments here is the list:
+    
+Arguments:
   
 |    Arguments    |                                 Comments                                 |
 |-----------------|--------------------------------------------------------------------------|
@@ -134,9 +134,7 @@ After Getting .zip file if you run `Melon Language.exe` it will not run you need
 | --help          |    Display this help screen.                                             |
 | --version       |    Display version information.                                          |
   
-  If you want definition for the Arguments always use `Melon_Language --help` or if you want to check version use `Melon_Language --version`
-  
-  You can use `#this#` to get the current directory (only for output path and program path) eg. `--output-path #this#`
+  You can use `#this#` to get the current directory (only for output path, program path and new project) eg. `--output-path #this#`
   
   <h1 align="center">💽 <strong>Hardware</strong></h1>
   
