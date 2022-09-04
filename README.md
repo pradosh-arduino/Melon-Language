@@ -63,10 +63,10 @@ use these to have a better environment while coding in Melon
 ### Graphics
  | Commands | Info | Suntax |
  |----------|------|----|
- | println | prints a text then goes to a new line | println \n "<text>"
- | printf | prints a text | printf \n "<text>"
- | colour | changes console colour | colour \n <fg>,<bg>
- | set-cursor-pos | sets cursor pos | set-cursor-pos \n <x>,<y>
+ | println | prints a text then goes to a new line | `println \n "<text>"`
+ | printf | prints a text | `printf \n "<text>"`
+ | colour | changes console colour | `colour \n <fg>,<bg>`
+ | set-cursor-pos | sets cursor pos | `set-cursor-pos \n <x>,<y>`
   
 </details>
  
