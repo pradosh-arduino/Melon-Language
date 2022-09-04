@@ -52,7 +52,7 @@ use these to have a better environment while coding in Melon
 | change-var      |   change variable value                                                                                    |  change-var \n <var_name>|
 | delete-var      |   Remove a variable                                                                                        |  delete-var \n <val_name>  |
 | delete-all-vars |  Remove All variables                                                                                      |  delete-all-vars           |
-| lock-var        |  lock a variable                                                                                           | lock-var \n name           |
+| lock-var        |  lock a variable                                                                                           | lock-var \n <name_>           |
 | importl         |  Import build in libraries                                                                                 |  importl \n <library_name> |
 | load-pkg        |  loads a package                                                                                           |  load-pkg \n <name_>        |
 | gen-pkg         |  generates a package with main.mlf                                                                         |  gen-pkg                   |
