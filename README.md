@@ -39,7 +39,8 @@ use these to have a better environment while coding in Melon
 | +               |  add the Address that is selected in cursor                                                                |  +                         |
 | -               |    subtract the Address that is selected in cursor                                                         | -                          |
 | ;               |    print the Array in the screen                                                                           | ;                          |
-| compile         |   compile the values into a executable file                                                                | compile                    |
+| compile         |   compile the arrays/addresses into a executable file                                                      | compile                    |
+| compile-script  |   compile the melon language file to melon language executable                                             | compile-script |
 | clear           |   clears the screen                                                                                        | clear                      |
 | reset           |   resets all address                                                                                       | reset                      |
 | run             |   runs the script                                                                                          | run                        |
