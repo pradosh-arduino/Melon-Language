@@ -117,16 +117,22 @@ use these to have a better environment while coding in Melon
 <h1 align="center">💻 <strong>Setup</strong></h1>
   
 After Getting .zip file if you run `Melon Language.exe` it will not run you need arguments here is the list:
-  | Argument | Syntax | Is Needed |
-  |----------|--------|----------|
-  |--output-format | --output-format <your_format> | Yes |
-  |--output-name | --output-name <your_name> | Yes |
-  |--output-path | --output-path <your_path> | Yes |
-  |--program-path | --program-path <your_main.mlf_path> | Yes |
-  |--logging | --logging <true/false> | No |
-  |--splash-text | --splash-text <true/false> | No|
-  |--updates | --updates <true/false> | No |
-  |--clear-logs | --clear-logs <true/false> | No |
+  
+|    Arguments    |                                 Comments                                 |
+|-----------------|--------------------------------------------------------------------------|
+| --output-path   |   The output path of the compiled binary                                 |
+| --output-format | The format of the compiled binary, currently supported are bin, hex, mle |
+| --output-name   |   The name of the compiled output                                        |
+| --program-path  |  the path for your main.mlf                                              |
+| --logging       |    Enable Logging                                                        |
+| --splash-text   |    Enable splash text                                                    |
+| --updates       |    Enable Update check                                                   |
+| --clear-logs    |    Clears logs when typing `quit` or `exit`                              |
+| --run           |    Runs a script without opening Melon                                   |
+| --compile       |    Compiles a script without opening Melon                               |
+| --new-project   |    Created a new project for melon                                       |
+| --help          |    Display this help screen.                                             |
+| --version       |    Display version information.                                          |
   
   If you want definition for the Arguments always use `Melon_Language --help` or if you want to check version use `Melon_Language --version`
   
