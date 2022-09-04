@@ -91,8 +91,6 @@ use these to have a better environment while coding in Melon
 |if |  check if the address is <your_value> or not |
 |calc |  do math |
 |write-var |  write a saved variable to a address that is selected by cursor position |
-|read-var |  Read The variables |
-|find-var | Find every variables |
 |convert| text to address array |
 | goto | goto start to loop infinitly or goto end to end the script much like return in C# |
 | sleep | A thread based timer (Milliseconds) |
