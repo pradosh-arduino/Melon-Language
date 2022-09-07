@@ -10,11 +10,9 @@
   <a href="https://github.com/pradosh-arduino/Melon-Language/releases"><img src="https://img.shields.io/github/downloads/pradosh-arduino/Melon-Language/total?style=flat-square" alt="downloads"></a>
 <a href="https://discord.gg/ChP4RMgcKG"><img src="https://img.shields.io/discord/902455221039530004?style=flat-square" alt="discord"></a>
 <a href="https://github.com/pradosh-arduino/Melon-Language/issues"><img src="https://img.shields.io/github/issues/pradosh-arduino/Melon-Language?style=flat-square" alt="issues"></a>
-<img src="https://img.shields.io/uptimerobot/ratio/m790982313-6e394aca6d9e2adb44b814f0?style=flat-square" alt="uptime">
 <img src="https://img.shields.io/uptimerobot/status/m790982313-6e394aca6d9e2adb44b814f0?style=flat-square" alt="isUp">
 <img src="https://img.shields.io/github/last-commit/pradosh-arduino/Melon-Language?style=flat-square" alt="commit">
 <img src="https://img.shields.io/github/directory-file-count/pradosh-arduino/Citrullus-Packages?color=%23e85634&label=Citrullus%20Packages&style=flat-square" alt="totat_pkg">
-<img src="https://img.shields.io/badge/dependents-C%23%20Runtime-orange?style=flat-square">
 <img src="https://img.shields.io/visual-studio-marketplace/stars/Pradosh-S.melon-language?color=blue&label=Language%20Server&logo=visual-studio-code&logoColor=blue&style=flat-square">
 <a href="https://www.reddit.com/r/Melon_Language"><img src="https://img.shields.io/badge/Reddit-r%2FMelon__Language-red?style=flat-square&logo=reddit"></a>
   
