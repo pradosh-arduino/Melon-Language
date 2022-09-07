@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/pradosh-arduino/Melon-Language/releases"><img src="https://img.shields.io/github/downloads/pradosh-arduino/Melon-Language/total?style=flat-square" alt="downloads"></a>
 <a href="https://discord.gg/ChP4RMgcKG"><img src="https://img.shields.io/discord/902455221039530004?style=flat-square" alt="discord"></a>
-<img src="https://betteruptime.com/status-badges/v1/monitor/ha7i.svg)](https://betteruptime.com/?utm_source=status_badge">
+<img src="https://betteruptime.com/status-badges/v1/monitor/ha7i.svg">
 <img src="https://img.shields.io/github/last-commit/pradosh-arduino/Melon-Language?style=flat-square" alt="commit">
 <img src="https://img.shields.io/github/directory-file-count/pradosh-arduino/Citrullus-Packages?color=%23e85634&label=Citrullus%20Packages&style=flat-square" alt="totat_pkg">
 <img src="https://img.shields.io/visual-studio-marketplace/stars/Pradosh-S.melon-language?color=blue&label=Language%20Server&logo=visual-studio-code&logoColor=blue&style=flat-square">
