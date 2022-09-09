@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://user-images.githubusercontent.com/69463173/158062823-ea321f58-0fdc-44f0-a3c2-143848e7f8f0.png"
+    src="https://user-images.githubusercontent.com/69463173/189360260-98ad7317-ea47-45d9-b547-f527678dcfd4.png"
   >
   <h2 align="center">😉 Simple, 💾 Low Level, 👨‍💻 PPL</h2>
   <h4 align="center">Melon is a simple, low level, procedural programming language (PPL). made for low level control with a interpreter and a compiler<h4>
