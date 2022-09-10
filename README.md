@@ -12,7 +12,6 @@
 <img src="https://betteruptime.com/status-badges/v1/monitor/ha7i.svg">
 <img src="https://img.shields.io/github/last-commit/pradosh-arduino/Melon-Language?style=flat-square" alt="commit">
 <img src="https://img.shields.io/github/directory-file-count/pradosh-arduino/Citrullus-Packages?color=%23e85634&label=Citrullus%20Packages&style=flat-square" alt="totat_pkg">
-<img src="https://img.shields.io/visual-studio-marketplace/stars/Pradosh-S.melon-language?color=blue&label=Language%20Server&logo=visual-studio-code&logoColor=blue&style=flat-square">
 <a href="https://www.reddit.com/r/Melon_Language"><img src="https://img.shields.io/badge/Reddit-r%2FMelon__Language-red?style=flat-square&logo=reddit"></a>
   
 #
