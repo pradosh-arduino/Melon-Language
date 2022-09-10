@@ -165,9 +165,3 @@ Arguments:
   | Windows | > 10 | x86_64 |
   | Linux | any | x86_64 |
   
-<h1 align="center">💝 <strong>Feedback & Support</strong></h1>
-  
- [![Feedback](https://img.shields.io/badge/Feedback-Github-green?style=flat-square)](https://gist.github.com/pradosh-arduino/4bf93fbf971f583c4d946282dac60e32)
-  
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U1BKS5N)
- 
