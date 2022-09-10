@@ -18,7 +18,7 @@
 #
   
 **Melon extensions for vscode**
-![e](https://img.shields.io/visual-studio-marketplace/v/Pradosh-S.melon-language?color=green&label=Melon%20Language&style=flat-square&logo=visual-studio-code)
+![e](https://img.shields.io/visual-studio-marketplace/v/Pradosh-S.melon-language?color=green&label=Melon%20Language&style=flat-square&logo=visual-studio-code&logoColor=blue)
   
 use these to have a better environment while coding in Melon
   
