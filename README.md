@@ -18,10 +18,7 @@
 #
   
 **Melon extensions for vscode**
-  
-  Sytax Highlight: https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-language
-  
-  Code Snippets: https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-code-snippets
+![e](https://img.shields.io/visual-studio-marketplace/v/Pradosh-S.melon-language?color=green&label=Melon%20Language&style=flat-square&logo=vscode)
   
 use these to have a better environment while coding in Melon
   
