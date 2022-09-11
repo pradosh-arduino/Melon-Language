@@ -11,7 +11,7 @@ here are the version that is currently supported
 | 2.5.x   | :white_check_mark: |
 | 2.4.x   | :white_check_mark: |
 | 2.3.x   | :white_check_mark: |
-| 2.2.x   | :x:                |
+| 2.2.x   | :white_check_mark:                |
 | < 2.1.0 | :x:                |
 
 ## Reporting a Vulnerability
