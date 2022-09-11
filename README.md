@@ -141,7 +141,7 @@ Arguments:
   |----------|--------|
   |CPU | any |
   | GPU | any |
-  | RAM | >50 MB |
+  | RAM | >5 MB |
   | Storage | any |
 
   ## 🐧 linux:
@@ -154,7 +154,7 @@ Arguments:
   |----------|--------|
   |CPU | any |
   | GPU | any |
-  | RAM | >50 MB |
+  | RAM | >5 MB |
   | Storage | any |
   
   ## Supported OS:
