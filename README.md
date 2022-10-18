@@ -131,8 +131,8 @@ Arguments:
   
   <h1 align="center">💽 <strong>Hardware</strong></h1>
   
-|   OS    | Hardware Requirements | Architecture |
-|------------|--------------------|--------------|
-| 🚪 Windows | Above 30 MB Memory | x86 x64 ARM  |
-| 🐧 Linux   | Above 30 MB Memory | ❌ x64 ARM  |
-| 🍎 OSX     | Above 30 MB Memory | ❌ x64 ❌  |
+|   OS    | Version | Hardware Requirements | Architecture |
+|------------|--|------------------|--------------|
+| 🚪 Windows | 7 to 11|Above 30 MB Memory | x86 x64 ARM  |
+| 🐧 Linux   | Any Distribution |Above 30 MB Memory | ❌ x64 ARM  |
+| 🍎 OSX     | 10.12 or above |Above 30 MB Memory | ❌ x64 ❌  |
