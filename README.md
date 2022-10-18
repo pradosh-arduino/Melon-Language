@@ -131,36 +131,8 @@ Arguments:
   
   <h1 align="center">💽 <strong>Hardware</strong></h1>
   
-  ## 🚪 windows:
-  
-  |Software Needed |
-  |----------------|
-  | C# Runtime Library |
-    
-  | Hardware | Amount |
-  |----------|--------|
-  |CPU | any |
-  | GPU | any |
-  | RAM | >5 MB |
-  | Storage | any |
-
-  ## 🐧 linux:
-  
-  |Software Needed |
-  |----------------|
-  | C# Runtime Library |
-  
-  | Hardware | Amount |
-  |----------|--------|
-  |CPU | any |
-  | GPU | any |
-  | RAM | >5 MB |
-  | Storage | any |
-  
-  ## Supported OS:
-  
-  | OS name | Version | Arch |
-  |---------|---------| -----|
-  | Windows | > 10 | x86_64 |
-  | Linux | any | x86_64 |
-  
+|   OS    |    Hardware Requirements    | Architecture |
+|---------|--------------------|--------------|
+| 🚪 Windows | Above 30 MB Memory | x86 x64 ARM  |
+| 🐧 Linux   | Above 30 MB Memory |     x64 ARM  |
+| 🍎 OSX     | Above 30 MB Memory |     x64      |
