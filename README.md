@@ -136,4 +136,4 @@ Arguments:
 |------------|------------------|--------------------------|-------|------|-------|--------|
 | 🚪 Windows | Vista to 11      | Above 30 MB Memory       | ✅   | ✅   | ✅   | ❌     |
 | 🐧 Linux   | Any Distribution | Above 30 MB Memory       | ✅   | ❌   | ✅   | ❌     |
-| 🍎 OSX     | 10.12 or         | above Above 30 MB Memory | ✅   | ❌   | ✅   | ❌     |
+| 🍎 OSX     | 10.12 or above   | Above 30 MB Memory | ✅   | ❌   | ✅   | ❌     |
