@@ -11,8 +11,18 @@ here are the version that is currently supported
 | 2.5.x   | :white_check_mark: |
 | 2.4.x   | :white_check_mark: |
 | 2.3.x   | :white_check_mark: |
-| 2.2.x   | :white_check_mark:                |
+| 2.2.x   | :white_check_mark: |
 | < 2.1.0 | :x:                |
+
+## Release Structure
+
+|  Name   |
+|---------|
+| LTS     |
+| Release |
+| Nightly |
+| Beta    |
+| Alpha   |
 
 ## Reporting a Vulnerability
 
