@@ -105,7 +105,8 @@ use these to have a better environment while coding in Melon
   Melon's compiler is known as neogenic-x or melonnx, which is fast
 
 <h1 align="center">📦 <strong>Package System</strong></h1>
-  Now melon has it's own package system called as Citrullus API, you can create your own packages too. Learn more at [Pakcage System Wiki](https://github.com/pradosh-arduino/Melon-Language/wiki/Package-System)
+  Now melon has it's own package system called as Citrullus API, you can create your own packages too. 
+  Learn more at <a href="https://github.com/pradosh-arduino/Melon-Language/wiki/Package-System">Package System Wiki</a>
 
 ![seperator](https://github.com/pradosh-arduino/Melon-Language/blob/main/seperator.png)
 
