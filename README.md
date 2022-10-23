@@ -134,6 +134,6 @@ Arguments:
 
 |     OS     |     Version      |         Hardware         | x64 | x86 | ARM | ARM64 |
 |------------|------------------|--------------------------|-------|------|-------|--------|
-| 🚪 Windows | Vista to 11      | Above 30 MB Memory       | ✅   | ✅   | ✅   | ❌     |
-| 🐧 Linux   | Any Distribution | Above 30 MB Memory       | ✅   | ❌   | ✅   | ❌     |
-| 🍎 OSX     | 10.12 or above   | Above 30 MB Memory | ✅   | ❌   | ✅   | ❌     |
+| 🚪 Windows | Vista to 11      | Above 30 MB Memory       | ✅   | ✅   | ✅   | ✅     |
+| 🐧 Linux   | Any Distribution | Above 30 MB Memory       | ✅   | ❌   | ✅   | ✅     |
+| 🍎 OSX     | 10.12 or above   | Above 30 MB Memory | ✅   | ❌   | ✅   | ✅     |
