@@ -23,8 +23,6 @@
   
 use these to have a better environment while coding in Melon
 
-![seperator](https://github.com/pradosh-arduino/Melon-Language/blob/main/seperator.png)
-
 ## Console
 <details>
   <summary>Click to expand console commands</summary>
@@ -67,8 +65,6 @@ use these to have a better environment while coding in Melon
  | set-cursor-pos | sets cursor pos | `set-cursor-pos \n <x>,<y>`
   
 </details>
-
-![seperator](https://github.com/pradosh-arduino/Melon-Language/blob/main/seperator.png)
 
 ## Script
   <details>
