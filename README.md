@@ -22,7 +22,9 @@
 [![e](https://img.shields.io/visual-studio-marketplace/v/Pradosh-S.melon-code-snippets?color=green&label=Melon%20Code%20Snippets&logo=visual-studio-code&logoColor=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Pradosh-S.melon-code-snippets)
   
 use these to have a better environment while coding in Melon
-  
+
+![seperator](https://github.com/pradosh-arduino/Melon-Language/blob/main/seperator.png)
+
 ## Console
 <details>
   <summary>Click to expand console commands</summary>
@@ -65,7 +67,9 @@ use these to have a better environment while coding in Melon
  | set-cursor-pos | sets cursor pos | `set-cursor-pos \n <x>,<y>`
   
 </details>
- 
+
+![seperator](https://github.com/pradosh-arduino/Melon-Language/blob/main/seperator.png)
+
 ## Script
   <details>
     <summary>Click to expand scripting commands</summary>
@@ -103,9 +107,11 @@ use these to have a better environment while coding in Melon
 </details>
 <h1 align="center">⏳ <strong>Melon's Compiler</strong></h1>
   Melon's compiler is known as neogenic-x or melonnx, which is fast
-  
+
 <h1 align="center">📦 <strong>Package System</strong></h1>
-  Now melon has it's own package system called as Citrullus API, you can create your own packages too.
+  Now melon has it's own package system called as Citrullus API, you can create your own packages too. Learn more at [Pakcage System Wiki](https://github.com/pradosh-arduino/Melon-Language/wiki/Package-System)
+
+![seperator](https://github.com/pradosh-arduino/Melon-Language/blob/main/seperator.png)
 
 <h1 align="center">💻 <strong>Setup</strong></h1>
     
@@ -128,7 +134,9 @@ Arguments:
 | --version       |    Display version information.                                          |
   
   You can use `#this#` to get the current directory (only for output path, program path and new project) eg. `--output-path #this#`
-  
+
+![seperator](https://github.com/pradosh-arduino/Melon-Language/blob/main/seperator.png)
+
   <h1 align="center">💽 <strong>Hardware</strong></h1>
   
 
