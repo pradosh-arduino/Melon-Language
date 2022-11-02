@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/directory-file-count/pradosh-arduino/Citrullus-Packages?color=%23e85634&label=Citrullus%20Packages&style=flat-square" alt="totat_pkg">
 <a href="https://www.reddit.com/r/Melon_Language"><img src="https://img.shields.io/badge/Reddit-r%2FMelon__Language-red?style=flat-square&logo=reddit"></a>
 <a href="awesome.re"><img src="https://awesome.re/badge-flat.svg"></a>
-<a href="https://wakatime.com/badge/user/cc9733ef-b0fa-42a2-8f7f-f1f480b03177/project/a1627bc4-eb0f-4b10-9e3c-296871838907"><img src="https://wakatime.com/badge/user/cc9733ef-b0fa-42a2-8f7f-f1f480b03177/project/a1627bc4-eb0f-4b10-9e3c-296871838907.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/badge/user/cc9733ef-b0fa-42a2-8f7f-f1f480b03177/project/a1627bc4-eb0f-4b10-9e3c-296871838907"><img src="https://wakatime.com/badge/user/cc9733ef-b0fa-42a2-8f7f-f1f480b03177/project/a1627bc4-eb0f-4b10-9e3c-296871838907.svg?style=flat-square" alt="wakatime"></a>
 
 #
   
