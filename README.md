@@ -13,7 +13,8 @@
 <img src="https://img.shields.io/github/last-commit/pradosh-arduino/Melon-Language?style=flat-square" alt="commit">
 <img src="https://img.shields.io/github/directory-file-count/pradosh-arduino/Citrullus-Packages?color=%23e85634&label=Citrullus%20Packages&style=flat-square" alt="totat_pkg">
 <a href="https://www.reddit.com/r/Melon_Language"><img src="https://img.shields.io/badge/Reddit-r%2FMelon__Language-red?style=flat-square&logo=reddit"></a>
-  
+
+<a href="awesome.re"><img src="https://awesome.re/badge-flat.svg)](https://awesome.re)"></a>
 #
   
 **Melon extensions for vscode**
